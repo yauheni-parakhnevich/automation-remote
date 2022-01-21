@@ -5,10 +5,11 @@ Components:
 ![remote-front](https://user-images.githubusercontent.com/5171984/150520516-1c691788-a622-4e30-a1f0-67fc25274865.png)
 ![remote-back](https://user-images.githubusercontent.com/5171984/150520042-c7bebcc7-5332-4b86-b04e-ae0c667d90e0.png)
 ![remote-inner](https://user-images.githubusercontent.com/5171984/150520528-069998b1-11b0-425e-967c-a0bbe6aebc54.png)
-- ESP8266 mini Wemos with Tasmota
-- Optocouplers
+- ESP8266 Wemos D1 mini with Tasmota
+- Optocouplers K847PH and SFH 620A-3
 
 Wiring:
+- TODO: add wiring schema
 
 Tasmota configuration
 - TODO: Add status on load
